@@ -14,7 +14,7 @@
  
  🌱 I’m currently Enhancing/learning **JavaScript, Typescript, Nodejs, tailwindcss**
 
-💬 Ask me about **Python, C++, HTML... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, C++, HTML... or anything [here](https://github.com/ShahabCompSci/ShahabCompSci/issues)**
 
  </div>
  
