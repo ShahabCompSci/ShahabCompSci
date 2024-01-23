@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:shahabjamali04@gmail.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/shahab-jamali/" target="_blank">
